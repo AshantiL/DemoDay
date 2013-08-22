@@ -1,6 +1,9 @@
-body {
+@import url(bootstrap.css);
 
-    background-image: url ('');
+body {
+    
+
+    background-image: url ('https://f.cloud.github.com/assets/5040629/1010378/e072efa6-0b49-11e3-80a6-9567cc0c1caa.jpg');
 
 }
 
